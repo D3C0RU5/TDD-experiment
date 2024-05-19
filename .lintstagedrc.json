@@ -1,0 +1,5 @@
+{
+  "*.ts": [
+    "npx prettier --write src`"
+  ]
+}
